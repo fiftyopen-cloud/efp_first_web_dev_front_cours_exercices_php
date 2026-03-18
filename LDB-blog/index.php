@@ -287,8 +287,10 @@
   <p>
     <a href="#">Back to top</a>
   </p>
-</footer>
 
+  &copy; <?php echo date('y'); ?>
+
+</footer>
 
     
   </body>
